@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "862797684853",
+    "project_id": "fashion-store-d716f",
+    "storage_bucket": "fashion-store-d716f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:862797684853:android:3ccfa3d53cc38b6bd8583c",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "862797684853-nkabr3li9vibu14l6bl2i0hcp8uojvt1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJaqR6gbBNQUj9JCUpJMBCq2iNZUhuh0g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "862797684853-nkabr3li9vibu14l6bl2i0hcp8uojvt1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
